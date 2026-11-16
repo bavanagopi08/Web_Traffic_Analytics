@@ -1,0 +1,28 @@
+WEB TRAFFIC ANALYTICS REPORT
+========================================
+Total Records: 2000
+Total Columns: 7
+Duplicate Records: 0
+
+Missing Values:
+Page Views          0
+Session Duration    0
+Bounce Rate         0
+Traffic Source      0
+Time on Page        0
+Previous Visits     0
+Conversion Rate     0
+
+Numeric Summary:
+        Page Views  Session Duration  Bounce Rate  Time on Page  Previous Visits  Conversion Rate
+count  2000.000000       2000.000000  2000.000000   2000.000000      2000.000000      2000.000000
+mean      4.950500          3.022045     0.284767      4.027439         1.978500         0.982065
+std       2.183903          3.104518     0.159781      2.887422         1.432852         0.065680
+min       0.000000          0.003613     0.007868      0.068515         0.000000         0.343665
+25%       3.000000          0.815828     0.161986      1.935037         1.000000         1.000000
+50%       5.000000          1.993983     0.266375      3.315316         2.000000         1.000000
+75%       6.000000          4.197569     0.388551      5.414627         3.000000         1.000000
+max      14.000000         20.290516     0.844939     24.796182         9.000000         1.000000
+
+Categorical Columns:
+['Traffic Source']
